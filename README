@@ -1,0 +1,4 @@
+This short Python script will remove periods from file names that are found in the specified directory and any subdirectories.
+It will leave the extension alone.
+
+I use this to strip out extra periods which are sometimes present in tv show titles and which cause problems with my metadata updater.
