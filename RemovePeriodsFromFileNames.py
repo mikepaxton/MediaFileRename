@@ -1,6 +1,6 @@
 import os
 
-mediaFolder = "/home/pi/tmp"
+mediaFolder = "/Volumes/secondary/Media Conversion/Completed"
 for directname, directnames, files in os.walk(mediaFolder):
     for f in files:
         # Split the file into the filename and the extension, saving
